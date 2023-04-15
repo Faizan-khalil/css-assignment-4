@@ -1,0 +1,72 @@
+body{
+    background-color: #624e09;
+}
+.logo{
+    background-color:#846304;
+    padding: 10px;
+    width: 1000px;
+    margin: 0px auto;
+}
+.logo h1{
+    color:white ;
+    text-align: center;
+
+}
+nav{
+    background-color: #846304;
+}
+
+nav ul{    
+    margin-left: 210px;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    color: white ;
+    font-size: large;
+    font-style: arial;
+}
+.square-container{
+    background-color: white;
+    width:1000px;
+    height: 600px;
+    padding: 20px;
+    margin: 0px auto;
+}
+.square-container h1{
+    color:#352b06 ;
+    text-align: center;
+    margin: 0;
+}
+.box{
+    background-color: #846304;
+    width: 200px;
+    height: 200px;
+    margin-top: 80px;
+    display: inline-block;
+    padding: 60px;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+.box h1{
+    color: white;
+    margin-top:20px;
+}
+hr{
+    border: none;
+    border-top: 2px dotted;
+    margin-top: 50px;
+}
+.text1{
+    color: #624e09;
+    padding: 20px;
+    display: inline-block;
+    height: 10px;
+}
+.text2{
+    margin-left: 20px;
+}
+.text2 p{
+    height: 20px;
+
+}
